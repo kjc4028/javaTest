@@ -76,7 +76,7 @@ public class ExcelPoiTest {
 			//파일을 쓴다
 			workbook.write(fileoutputstream);
 			//필수로 닫아주어야함 
-			workbook.close();
+			workbook.close(); 
 			fileoutputstream.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

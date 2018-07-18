@@ -2,7 +2,7 @@ package javaTest;
 
 import java.util.Scanner;
 
-public class BeeHouse {
+public class BeeHouse { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
